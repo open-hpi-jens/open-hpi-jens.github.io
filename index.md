@@ -14,3 +14,5 @@ Luke Skywalker war der Sohn von Senatorin Padmé Amidala und Anakin Skywalker. E
 Zitat:
 > Sich der Angst zu stellen, das ist das Schicksal eines Jedi. Dein Schicksal.
 
+<img src="https://cdn.pixabay.com/photo/2016/01/03/19/09/star-wars-1119920_960_720.jpg"/>
+
