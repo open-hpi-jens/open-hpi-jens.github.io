@@ -10,3 +10,7 @@ Luke Skywalker war der Sohn von Senatorin Padmé Amidala und Anakin Skywalker. E
 * Körpergröße: 1,72 Meter
 * Körpermasse: 73 Kilogramm
 * Besondere Merkmale: rechte Hand durch Prothese ersetzt
+
+Zitat:
+> Sich der Angst zu stellen, das ist das Schicksal eines Jedi. Dein Schicksal.
+
